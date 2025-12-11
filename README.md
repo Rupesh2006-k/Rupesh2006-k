@@ -1,16 +1,17 @@
-## Hi there 👋
+# Rupesh Kushwaha
 
-<!--
-**Rupesh2006-k/Rupesh2006-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Full-Stack Developer | MERN | AI | DevOps Enthusiast**  
+🎓 Trained at **Sheryian Coding School**  
+🌐 Passionate about building scalable web applications and exploring AI-driven solutions.
+---
+## 🛠 Skills
+- **Frontend:** React, Redux, Tailwind CSS, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, Mongoose  
+- **DevOps:** Docker, Git, CI/CD pipelines, Deployment  
+- **AI / ML:** Basics of machine learning, AI model integration with web apps  
+- **Tools & Others:** GitHub, VSCode, Postman, Axios  
+---
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rupesh-kushwaha)  
+**“Building the web, one line of code at a time.”**
