@@ -1,6 +1,6 @@
 # Rupesh Kushwaha
 
-💻 **Full-Stack Developer | MERN | AI | DevOps Enthusiast**  
+💻 **  | MERN Developer | AI | DevOps Enthusiast**  
 🎓 Trained at **Sheryian Coding School**  
 🌐 Passionate about building scalable web applications and exploring AI-driven solutions.
 ---
