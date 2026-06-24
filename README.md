@@ -24,13 +24,13 @@ Hackathon Participation
 I have actively participated in multiple hackathons to enhance my problem-solving skills, teamwork, and real-world development experience.
 
 🚀 Hackathons
-- TIT College Online Hackathon
+- TIT College Online Hackathon,
 Participated in an online hackathon organized by TIT College.
-- VIT Bhopal Hackathon
+- VIT Bhopal Hackathon,
 Took part in a hackathon conducted at VIB, Bhopal.
-- BGI College Hackathon
+- BGI College Hackathon,
 Participated in a competitive hackathon organized by BGI College.
-- Prestige College Hackathon
+- Prestige College Hackathon,
 Engaged in innovative problem-solving challenges at Prestige College.
-- LNCT College Hackathon (by Tech Arnina CPL Club)
+- LNCT College Hackathon (by Tech Arnina CPL Club),
 Participated in a hackathon organized by LNCT College in collaboration with Tech Arnina CPL Club.
